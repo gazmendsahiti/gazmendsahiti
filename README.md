@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gazmendsahiti
 - 👀 I’m interested in back end web develpoment 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Symfony
 - 💞️ I’m looking to collaborate on open source projects
 
 
