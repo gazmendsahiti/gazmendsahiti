@@ -1,12 +1,11 @@
 ## Hi 👋 my name is Gazmend Sahiti
-### Back end developer
+### I am a back end developer
 I write code in a daily basis and I like cats... 
 My main interest is building highly scalable web applications using Laravel. 
 
 * 🌍 I'm based in Kosovo   
 * 🖥️  See my portfolio at [My portfolio](http://gazmend.dev)   
 * ✉️  You can contact me at [gazmendsahiti@outlook.com](mailto:gazmendsahiti@outlook.com)
-* 🧠  I'm learning Rust
 
 ### Skills
 
